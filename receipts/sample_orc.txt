@@ -1,0 +1,7 @@
+STORE: Walmart
+DATE: 12/01/2025
+
+Milk 5.99
+Bread 3.99
+
+TOTAL 9.98
